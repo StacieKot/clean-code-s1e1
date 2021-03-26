@@ -18,8 +18,8 @@ body {
 }
 
 @media (max-width:768px) {
-.top-banner { text-align: center;
-}
+  .top-banner { text-align: center;
+  }
 }
 .container {
   display: block;
